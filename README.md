@@ -8,5 +8,6 @@
 - 👨‍💻 All of my projects are available at **www.nismal.in**
 - <h3 align="left">Connect with me:</h3>
 
-- 📫 How to reach me **nismalm14@gmail.com**
+- 📫 How to reach me **nismalrfd68@gmail.com**
+  
 
