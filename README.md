@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at **nismal.in**
+- 👨‍💻 All of my projects are available at **www.nismal.in**
 - <h3 align="left">Connect with me:</h3>
 
 - 📫 How to reach me **nismalm14@gmail.com**
